@@ -14,6 +14,11 @@
 - [ ] DataBase의 내용은 중요하지않은 데이터로 분류한다.
 - [ ] 대휴의 쿠폰제
 
+### Code
+- Code : python이 아닌 다른 언어를 채택할 예정
+- KakaoAPI : [KakaoAPI](https://developers.kakao.com)
+- SlackAPI : [SlackAPI](https://api.slack.com/apis)
+
 ### Develop & Research
 - 담당 : 김민수 TD
 - 참여 : 김민수, HR

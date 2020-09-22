@@ -17,3 +17,6 @@
 ### Develop & Research
 - 담당 : 김민수 TD
 - 참여 : 김민수, HR
+
+### Description
+- Research 완료 및 코어 코드 작성 시작시 Private로 

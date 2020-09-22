@@ -24,4 +24,4 @@
 - 참여 : 김민수, HR
 
 ### Description
-- Core 코드 작성시 레포지터리를 Private로 변경
+- Core 코드 작성시 레포지터리를 Private로 변경 및 새로운 레포지터리로 변경

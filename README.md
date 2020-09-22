@@ -19,4 +19,4 @@
 - 참여 : 김민수, HR
 
 ### Description
-- Research 완료 및 코어 코드 작성 시작시 Private로 
+- Core 코드 작성시 레포지터리를 Private로 변경한다. 
